@@ -73,6 +73,8 @@ function LENGTN() {
     document.querySelector('.span_length').textContent = LENGTH;
 }
 
+
+
 function STATUS(ele) {
     ele.classList.toggle('text');
 }
